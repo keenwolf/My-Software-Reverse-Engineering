@@ -15,5 +15,5 @@
  所有笔记正在制作，以及不断更新中。<br>
  我是Delort。<br>
  我很多事没有坚持下去。<br>
- 我的博客：www.delort.xyz <br>
  我只想做好这件事情以及看好的书。<br>
+ 我的博客：www.delort.xyz <br>
