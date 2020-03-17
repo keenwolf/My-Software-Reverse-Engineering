@@ -17,7 +17,7 @@ Delort,V4ler1an <br>
 《软件调试-第二版-卷一硬件基础》学习笔记总结 待更新<br>
  ....<br>
 #贡献者Blog地址：<br>
- Delort www.delort.xyz <br>
+ Delort www.ccdebug.com<br>
  V4ler1an https://alexsandershaw.github.io/ <br>
 #Delort的留言：<br>
  所有笔记正在制作，以及不断更新中。<br>
