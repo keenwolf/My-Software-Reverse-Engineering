@@ -23,7 +23,7 @@ Windows操作系统向用户提供GUI，它是以事件驱动（Event Driven）�
 
 这是一个实现消息钩子的API，其定义如下：
 
-```c
+```
 HHOOK SetWindowsHookEx(
 	int idHook,						// hook type
 	HOOKpROC lpfn,				// hook procedure
