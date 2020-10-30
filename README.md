@@ -20,7 +20,7 @@ Delort,V4ler1an
 
 贡献者Blog地址：
 
- Delort www.ccdebug.com 没钱付服务器的钱。
+ Delort http://delort.leanote.com/
 
  V4ler1an https://alexsandershaw.github.io/
 
